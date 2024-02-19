@@ -1,6 +1,6 @@
 # Tiny Language Model (TLM)
 
-1) Is it possible use [Abstract Syntax Tree (AST)](https://en.wikipedia.org/wiki/Abstract_syntax_tree) (AST-like) instead of using [regex](https://en.wikipedia.org/wiki/Regular_expression)?
+1) Is it possible use [Abstract Syntax Tree (AST)](https://en.wikipedia.org/wiki/Abstract_syntax_tree) (AST-like) besides using [regex](https://en.wikipedia.org/wiki/Regular_expression) in the [Byte Pair Encoding (BPE)](https://github.com/karpathy/minbpe) algorithm?
 
 2) Can develop a tiny language model (TLM), character-based?
 
